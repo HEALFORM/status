@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1036,
-    "timeDay": 1036,
-    "timeWeek": 1036,
-    "timeMonth": 1036,
-    "timeYear": 1036,
+    "time": 911,
+    "timeDay": 911,
+    "timeWeek": 911,
+    "timeMonth": 911,
+    "timeYear": 911,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 932,
-    "timeDay": 932,
-    "timeWeek": 932,
-    "timeMonth": 932,
-    "timeYear": 932,
+    "time": 875,
+    "timeDay": 875,
+    "timeWeek": 875,
+    "timeMonth": 875,
+    "timeYear": 875,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,18 @@
     "icon": "https://favicons.githubusercontent.com/support.healform.de",
     "slug": "healform-support-center",
     "status": "down",
-    "uptime": "14.21%",
-    "uptimeDay": "14.21%",
-    "uptimeWeek": "14.21%",
-    "uptimeMonth": "14.21%",
-    "uptimeYear": "14.21%",
+    "uptime": "4.69%",
+    "uptimeDay": "4.69%",
+    "uptimeWeek": "4.69%",
+    "uptimeMonth": "4.69%",
+    "uptimeYear": "4.69%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 1
     }
   }
 ]
