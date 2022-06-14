@@ -7,6 +7,16 @@ sites:
     url: https://www.healform.de
   - name: myHEALFORM
     url: https://my.healform.de
+  - name: HEALFORM Chat
+    url: https://chat.healform.de
+  - name: HEALFORM Display-Widget
+    url: https://display-widget.healform.de
+  - name: HEALFORM Franchise
+    url: https://franchise.healform.de
+  - name: HEALFORM Liquid
+    url: https://liquid.healform.de
+  - name: HEALFORM Server
+    url: https://api.healform.de
   - name: HEALFORM Support-Center
     url: https://support.healform.de
 
@@ -18,7 +28,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: HEALFORM Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/HEALFORM/status). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
