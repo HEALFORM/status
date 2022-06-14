@@ -4,18 +4,20 @@
     "url": "https://www.healform.de",
     "icon": "https://favicons.githubusercontent.com/www.healform.de",
     "slug": "healform",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.92%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
     "time": 793,
     "timeDay": 793,
     "timeWeek": 793,
     "timeMonth": 793,
     "timeYear": 793,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-14": 0
+    }
   },
   {
     "name": "myHEALFORM",
@@ -59,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/display-widget.healform.de",
     "slug": "healform-display-widget",
     "status": "down",
-    "uptime": "2.88%",
-    "uptimeDay": "2.88%",
-    "uptimeWeek": "2.88%",
-    "uptimeMonth": "2.88%",
-    "uptimeYear": "2.88%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 541,
     "timeDay": 541,
     "timeWeek": 541,
     "timeMonth": 541,
     "timeYear": 541,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 378
     }
   },
   {
@@ -79,18 +81,18 @@
     "icon": "https://favicons.githubusercontent.com/franchise.healform.de",
     "slug": "healform-franchise",
     "status": "down",
-    "uptime": "4.95%",
-    "uptimeDay": "4.95%",
-    "uptimeWeek": "4.95%",
-    "uptimeMonth": "4.95%",
-    "uptimeYear": "4.95%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 378
     }
   },
   {
@@ -99,18 +101,18 @@
     "icon": "https://favicons.githubusercontent.com/liquid.healform.de",
     "slug": "healform-liquid",
     "status": "down",
-    "uptime": "7.62%",
-    "uptimeDay": "7.62%",
-    "uptimeWeek": "7.62%",
-    "uptimeMonth": "7.62%",
-    "uptimeYear": "7.62%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 378
     }
   },
   {
@@ -119,18 +121,18 @@
     "icon": "https://favicons.githubusercontent.com/api.healform.de",
     "slug": "healform-server",
     "status": "down",
-    "uptime": "5.56%",
-    "uptimeDay": "5.56%",
-    "uptimeWeek": "5.56%",
-    "uptimeMonth": "5.56%",
-    "uptimeYear": "5.56%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 807,
     "timeDay": 807,
     "timeWeek": 807,
     "timeMonth": 807,
     "timeYear": 807,
     "dailyMinutesDown": {
-      "2022-06-14": 0
+      "2022-06-14": 378
     }
   },
   {
@@ -139,18 +141,18 @@
     "icon": "https://favicons.githubusercontent.com/support.healform.de",
     "slug": "healform-support-center",
     "status": "down",
-    "uptime": "0.23%",
-    "uptimeDay": "0.23%",
-    "uptimeWeek": "0.23%",
-    "uptimeMonth": "0.23%",
-    "uptimeYear": "0.23%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-14": 17
+      "2022-06-14": 394
     }
   }
 ]
